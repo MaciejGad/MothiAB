@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mothi",
+        "repositoryURL": "https://github.com/MaciejGad/Mothi",
+        "state": {
+          "branch": "master",
+          "revision": "6e9ec7001b911ac75179bd0e5d36d28365b13dc3",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-nio",
+        "repositoryURL": "https://github.com/apple/swift-nio.git",
+        "state": {
+          "branch": null,
+          "revision": "32760eae40e6b7cb81d4d543bb0a9f548356d9a2",
+          "version": "2.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
